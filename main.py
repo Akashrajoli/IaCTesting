@@ -9,7 +9,7 @@ from iac_testing_antipatterns import IaCTestingAntipatterns
 
 def main():
     
-    
+    # Small change to trigger CI
     
     base_dir= input("Please enter the directory: ")
     print("\n")
